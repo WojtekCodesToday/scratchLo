@@ -1,8 +1,7 @@
 <template>
+<title>ScratchLo</title>
   <div>
-    <p>
-    hello
-    </p>
+    <p>hello</p>
     <NuxtWelcome />
   </div>
 </template>
