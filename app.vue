@@ -1,8 +1,8 @@
 <template>
-<link rel="stylesheet" type="text/css" href="/global.css">
   <div class="wrapper">
-    <p>hello</p>
+    <p>ScratchLo</p>
   </div>
+  hello
   <style scoped>
       .wrapper {
         position: sticky;
