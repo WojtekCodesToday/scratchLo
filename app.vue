@@ -3,7 +3,7 @@
     <p>ScratchLo</p>
   </div>
   hello
-  <style scoped>
+  <component is="style" scoped>
       .wrapper {
         position: sticky;
         top: 0;
@@ -24,5 +24,5 @@
         scrollbar-width: none;
         z-index: 10;
     }
-  </style>
+  </component>
 </template>
