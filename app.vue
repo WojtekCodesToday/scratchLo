@@ -16,7 +16,7 @@
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-size: 0.75rem;
         font-weight: bold;
-        background-color: var(--header-background);
+        background-color: #8fff93;
         color: white;
         border-bottom: 1px solid rgba(0, 0, 0, 0.1);
         box-shadow: 0 0 3px rgb(0 0 0 / 25%);
