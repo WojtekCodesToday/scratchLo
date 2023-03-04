@@ -1,4 +1,5 @@
 <template>
+<link rel="stylesheet" type="text/css" href="/global.css">
   <div class="wrapper">
     <p>ScratchLo</p>
   </div>
